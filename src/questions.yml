@@ -1,0 +1,23 @@
+- title: Quel est le nom de l'artiste?
+  answers:
+    - Georges de la Tour
+  #onSuccess:
+    #- type: fetch
+    #  url: http://192.168.1.62:5000/text/BRAVO 
+- title: Quelles sont les 4 différences par rapport à l’original?
+  answers:
+    - C1, D2, A4, D4
+    - C1,D2,A4,D4
+    - C1 D2 A4 D4
+    - C1D2A4D4
+    - 1C, 2D, 4A, 4D
+    - 1C,2D,4A,4D
+    - 1C 2D 4A 4D
+    - 1C2D4A4D
+- title: "Quelle est la date de l’Oeuvre? "
+  answers:
+    - "1638"
+- title: Quel code révèlent les jeux des différents protagonistes?
+  answers:
+    - "186"
+    
